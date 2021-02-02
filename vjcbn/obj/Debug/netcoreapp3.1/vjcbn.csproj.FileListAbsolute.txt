@@ -1,0 +1,11 @@
+C:\Users\s210193\source\repos\branchuign\vjcbn\obj\Debug\netcoreapp3.1\vjcbn.csprojAssemblyReference.cache
+C:\Users\s210193\source\repos\branchuign\vjcbn\obj\Debug\netcoreapp3.1\vjcbn.AssemblyInfoInputs.cache
+C:\Users\s210193\source\repos\branchuign\vjcbn\obj\Debug\netcoreapp3.1\vjcbn.AssemblyInfo.cs
+C:\Users\s210193\source\repos\branchuign\vjcbn\bin\Debug\netcoreapp3.1\vjcbn.exe
+C:\Users\s210193\source\repos\branchuign\vjcbn\bin\Debug\netcoreapp3.1\vjcbn.deps.json
+C:\Users\s210193\source\repos\branchuign\vjcbn\bin\Debug\netcoreapp3.1\vjcbn.runtimeconfig.json
+C:\Users\s210193\source\repos\branchuign\vjcbn\bin\Debug\netcoreapp3.1\vjcbn.runtimeconfig.dev.json
+C:\Users\s210193\source\repos\branchuign\vjcbn\bin\Debug\netcoreapp3.1\vjcbn.dll
+C:\Users\s210193\source\repos\branchuign\vjcbn\bin\Debug\netcoreapp3.1\vjcbn.pdb
+C:\Users\s210193\source\repos\branchuign\vjcbn\obj\Debug\netcoreapp3.1\vjcbn.dll
+C:\Users\s210193\source\repos\branchuign\vjcbn\obj\Debug\netcoreapp3.1\vjcbn.pdb

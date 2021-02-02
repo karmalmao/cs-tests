@@ -1,0 +1,11 @@
+C:\Users\s210193\source\repos\branchuign\ashkaashh\bin\Debug\netcoreapp3.1\ashkaashh.exe
+C:\Users\s210193\source\repos\branchuign\ashkaashh\bin\Debug\netcoreapp3.1\ashkaashh.deps.json
+C:\Users\s210193\source\repos\branchuign\ashkaashh\bin\Debug\netcoreapp3.1\ashkaashh.runtimeconfig.json
+C:\Users\s210193\source\repos\branchuign\ashkaashh\bin\Debug\netcoreapp3.1\ashkaashh.runtimeconfig.dev.json
+C:\Users\s210193\source\repos\branchuign\ashkaashh\bin\Debug\netcoreapp3.1\ashkaashh.dll
+C:\Users\s210193\source\repos\branchuign\ashkaashh\bin\Debug\netcoreapp3.1\ashkaashh.pdb
+C:\Users\s210193\source\repos\branchuign\ashkaashh\obj\Debug\netcoreapp3.1\ashkaashh.csprojAssemblyReference.cache
+C:\Users\s210193\source\repos\branchuign\ashkaashh\obj\Debug\netcoreapp3.1\ashkaashh.AssemblyInfoInputs.cache
+C:\Users\s210193\source\repos\branchuign\ashkaashh\obj\Debug\netcoreapp3.1\ashkaashh.AssemblyInfo.cs
+C:\Users\s210193\source\repos\branchuign\ashkaashh\obj\Debug\netcoreapp3.1\ashkaashh.dll
+C:\Users\s210193\source\repos\branchuign\ashkaashh\obj\Debug\netcoreapp3.1\ashkaashh.pdb

@@ -1,0 +1,11 @@
+C:\Users\s210193\source\repos\branchuign\ymide\obj\Debug\netcoreapp3.1\ymide.csprojAssemblyReference.cache
+C:\Users\s210193\source\repos\branchuign\ymide\obj\Debug\netcoreapp3.1\ymide.AssemblyInfoInputs.cache
+C:\Users\s210193\source\repos\branchuign\ymide\obj\Debug\netcoreapp3.1\ymide.AssemblyInfo.cs
+C:\Users\s210193\source\repos\branchuign\ymide\bin\Debug\netcoreapp3.1\ymide.exe
+C:\Users\s210193\source\repos\branchuign\ymide\bin\Debug\netcoreapp3.1\ymide.deps.json
+C:\Users\s210193\source\repos\branchuign\ymide\bin\Debug\netcoreapp3.1\ymide.runtimeconfig.json
+C:\Users\s210193\source\repos\branchuign\ymide\bin\Debug\netcoreapp3.1\ymide.runtimeconfig.dev.json
+C:\Users\s210193\source\repos\branchuign\ymide\bin\Debug\netcoreapp3.1\ymide.dll
+C:\Users\s210193\source\repos\branchuign\ymide\bin\Debug\netcoreapp3.1\ymide.pdb
+C:\Users\s210193\source\repos\branchuign\ymide\obj\Debug\netcoreapp3.1\ymide.dll
+C:\Users\s210193\source\repos\branchuign\ymide\obj\Debug\netcoreapp3.1\ymide.pdb
