@@ -1,0 +1,13 @@
+C:\Users\s210193\source\repos\classexercises but again\aie_01_helloworld\obj\Debug\netcoreapp3.1\aie_01_helloworld.AssemblyInfoInputs.cache
+C:\Users\s210193\source\repos\classexercises but again\aie_01_helloworld\obj\Debug\netcoreapp3.1\aie_01_helloworld.AssemblyInfo.cs
+C:\Users\s210193\source\repos\classexercises but again\aie_01_helloworld\bin\Debug\netcoreapp3.1\aie_01_helloworld.exe
+C:\Users\s210193\source\repos\classexercises but again\aie_01_helloworld\bin\Debug\netcoreapp3.1\aie_01_helloworld.deps.json
+C:\Users\s210193\source\repos\classexercises but again\aie_01_helloworld\bin\Debug\netcoreapp3.1\aie_01_helloworld.runtimeconfig.json
+C:\Users\s210193\source\repos\classexercises but again\aie_01_helloworld\bin\Debug\netcoreapp3.1\aie_01_helloworld.runtimeconfig.dev.json
+C:\Users\s210193\source\repos\classexercises but again\aie_01_helloworld\bin\Debug\netcoreapp3.1\aie_01_helloworld.dll
+C:\Users\s210193\source\repos\classexercises but again\aie_01_helloworld\bin\Debug\netcoreapp3.1\aie_01_helloworld.pdb
+C:\Users\s210193\source\repos\classexercises but again\aie_01_helloworld\obj\Debug\netcoreapp3.1\aie_01_helloworld.dll
+C:\Users\s210193\source\repos\classexercises but again\aie_01_helloworld\obj\Debug\netcoreapp3.1\aie_01_helloworld.pdb
+C:\Users\s210193\source\repos\classexercises but again\aie_01_helloworld\obj\Debug\netcoreapp3.1\aie_01_helloworld.csprojAssemblyReference.cache
+C:\Users\s210193\source\repos\classexercises but again\aie_01_helloworld\bin\Debug\netcoreapp3.1\ConsoleGameEngine.dll
+C:\Users\s210193\source\repos\classexercises but again\aie_01_helloworld\obj\Debug\netcoreapp3.1\aie_01_helloworld.csproj.CopyComplete

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "aie_01_helloworld/1.0.0": {
+        "dependencies": {
+          "ConsoleGameEngine": "1.0.0.0"
+        },
+        "runtime": {
+          "aie_01_helloworld.dll": {}
+        }
+      },
+      "ConsoleGameEngine/1.0.0.0": {
+        "runtime": {
+          "ConsoleGameEngine.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aie_01_helloworld/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleGameEngine/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
